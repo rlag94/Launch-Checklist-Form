@@ -6,8 +6,8 @@ div {
     text-align: left;
 }
 
-#faultyItems {
-    visibility: hidden;   
+ #faultyItems {
+    visibility: hidden;    
 }
 
 #launchForm {
